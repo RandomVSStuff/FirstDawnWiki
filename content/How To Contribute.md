@@ -29,4 +29,8 @@ Quick Guide for Obsidian MD: [Getting Started with Obsidian Notes: A Beginner’
 Once you have saved your work, and feel like it is ready to be added to the website, you can make your Pull Request(or PR), to do this, go to GitHub Desktop, and make a commit, in the bottom left corner, this can be as detailed or vague as you like.
 ![[Pasted image 20250131135233.png]]
 
-Once you have your files commited, you can then push it to the GitHub
+Once you have your files committed, you can then push it to the GitHub using the push origin button in the top bar.
+![[Pasted image 20250131135400.png]]
+
+Once this is done, we can head to the Repository it is saved in: [RandomVSStuff/FirstDawnWiki: Current wiki for the First Dawn Homo-Sapiens Server](https://github.com/RandomVSStuff/FirstDawnWiki), go to pull requests, ![[Pasted image 20250131135532.png]]
+Click new pull request, and select your branch
