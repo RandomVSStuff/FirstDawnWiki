@@ -33,4 +33,4 @@ Once you have your files committed, you can then push it to the GitHub using the
 ![[Pasted image 20250131135400.png]]
 
 Once this is done, we can head to the Repository it is saved in: [RandomVSStuff/FirstDawnWiki: Current wiki for the First Dawn Homo-Sapiens Server](https://github.com/RandomVSStuff/FirstDawnWiki), go to pull requests, ![[Pasted image 20250131135532.png]]
-Click new pull request, and select your branch
+Click new pull request, and select your branch,
